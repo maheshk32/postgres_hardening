@@ -1,2 +1,3 @@
 name,setting,unit,context
 log_connections,off,,superuser-backend
+max_connections,500,,postmaster
