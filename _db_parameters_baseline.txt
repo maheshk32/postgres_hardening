@@ -1,0 +1,2 @@
+name,setting,unit,context
+log_connections,off,,superuser-backend
